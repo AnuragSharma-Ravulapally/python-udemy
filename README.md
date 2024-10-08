@@ -1,1 +1,1 @@
-# This Repository contains about python course done form udemy
+# This Repository contains about python course done from udemy
